@@ -1,0 +1,6 @@
+tarchea0, 0, 0.0, 23
+bronchi1, 10, 0.0, 23
+lobes2, 0, 0.0, 23
+pleura3, 13, 0.0, 23
+bronchus4, 0, 0.0, 23
+bronchioles5, 0, 0.0, 23
